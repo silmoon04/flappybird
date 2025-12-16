@@ -50,7 +50,8 @@
 *.mdb
 *.opendb
 *.VC.db
-
+*.vscode
+*.history
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
@@ -86,3 +87,9 @@ crashlytics-build.properties
 *_bak*.hipnc
 
 *.DS_Store
+
+# tools and ai data
+Tools
+
+PROJECT_SUMMARY.md
+.copilotignore
