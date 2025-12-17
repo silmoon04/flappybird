@@ -152,7 +152,7 @@ SortingGroup:
   m_GameObject: {fileID: 6694945435323994111}
   m_Enabled: 1
   m_SortingLayerID: -527781669
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_SortAtRoot: 0
   m_Sort3DAs2D: 0
@@ -235,7 +235,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -527781669
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8634368658134348540, guid: 82fa1f3fa5e6150489c63934a2ed0f5e, type: 3}
@@ -373,7 +373,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -527781669
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8634368658134348540, guid: 82fa1f3fa5e6150489c63934a2ed0f5e, type: 3}
