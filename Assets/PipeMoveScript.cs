@@ -3,8 +3,9 @@ using UnityEngine;
 public class PipeMoveScript : MonoBehaviour
 {
     public float moveSpeed = 5;
-
     public float deadZone = -35;
+    public float gapsize = 5;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

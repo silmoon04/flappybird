@@ -102,6 +102,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6799573552451072327}
   - component: {fileID: 6686582210120060038}
+  - component: {fileID: 1720736058312073107}
   m_Layer: 0
   m_Name: Pipe
   m_TagString: Untagged
@@ -141,6 +142,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   moveSpeed: 12
   deadZone: -58
+  gapsize: 5
+--- !u!210 &1720736058312073107
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6694945435323994111}
+  m_Enabled: 1
+  m_SortingLayerID: -527781669
+  m_SortingLayer: 3
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
+  m_Sort3DAs2D: 0
 --- !u!1 &7692934229647702138
 GameObject:
   m_ObjectHideFlags: 0
@@ -219,8 +234,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -527781669
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8634368658134348540, guid: 82fa1f3fa5e6150489c63934a2ed0f5e, type: 3}
@@ -306,7 +321,7 @@ Transform:
   m_GameObject: {fileID: 8884066687412499351}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -26.0367, z: 0}
+  m_LocalPosition: {x: 0, y: -32.7, z: 0}
   m_LocalScale: {x: -0.865, y: -2.1279, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -357,8 +372,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -527781669
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8634368658134348540, guid: 82fa1f3fa5e6150489c63934a2ed0f5e, type: 3}

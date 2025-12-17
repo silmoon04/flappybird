@@ -1,0 +1,20 @@
+{
+    "asset": "311925a002f4447b3a28927169b83ea6",
+    "fileName": "019b2e01-8fbd-7b77-ab25-775eedb33d7b.jpg",
+    "prompt": "ground texture for flappy bird",
+    "negativePrompt": "",
+    "model": "dbb35e61-f5e2-4e71-a7af-b563ed9472ed",
+    "modelName": "Hand Painted Textures 2.0",
+    "customSeed": -1,
+    "w3CTraceId": "8486d785c8b753906db098d835f2aa3c",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

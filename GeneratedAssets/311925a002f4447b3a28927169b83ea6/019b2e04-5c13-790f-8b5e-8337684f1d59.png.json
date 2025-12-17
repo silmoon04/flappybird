@@ -1,0 +1,20 @@
+{
+    "asset": "311925a002f4447b3a28927169b83ea6",
+    "fileName": "019b2e04-5c13-790f-8b5e-8337684f1d59.png",
+    "prompt": "ground texture 2.5d",
+    "negativePrompt": "",
+    "model": "409229d8-9653-42a8-b069-824d11ef6762",
+    "modelName": "8-bit Pixel",
+    "customSeed": -1,
+    "w3CTraceId": "90da715dfd3d7611ed08fc69f43c83ef",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
