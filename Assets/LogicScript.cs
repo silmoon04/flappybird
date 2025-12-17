@@ -22,6 +22,13 @@ public class LogicScript : MonoBehaviour
 
     public void gameOver()
     {
-        gameOverScreen.SetActive(true);
+        if (gameOverScreen != null)
+        {
+            gameOverScreen.SetActive(true);
+        }
+        else
+        {
+            Debug.LogError("GameOverScreen is not assigned or is null.");
+        }
     }
 }
