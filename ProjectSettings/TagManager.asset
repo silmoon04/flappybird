@@ -45,5 +45,11 @@ TagManager:
   - name: Bird
     uniqueID: 1587342521
     locked: 0
+  - name: PIpes
+    uniqueID: 3767185627
+    locked: 0
+  - name: Ground
+    uniqueID: 3680818099
+    locked: 0
   m_RenderingLayers:
   - Default

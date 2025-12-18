@@ -8,7 +8,7 @@ public class PipeSpawnerScript : MonoBehaviour
     public float heightOffset = 10;
     public float minFlyableGap = 8f;
     public float maxFlyableGap = 11f;
-    private float pipeHalfHeight = 25f;
+    private float pipeHalfHeight = 16f;
     
     void Start()
     {

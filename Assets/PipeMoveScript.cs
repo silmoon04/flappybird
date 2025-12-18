@@ -28,7 +28,6 @@ public class PipeMoveScript : MonoBehaviour
             topPipe.localPosition = new Vector3(0, gapsize, 0);
             bottomPipe.localPosition = new Vector3(0, -gapsize, 0);
             gapApplied = true;
-            Debug.Log($"TopPipe Y: {topPipe.localPosition.y}, BottomPipe Y: {bottomPipe.localPosition.y}, gapsize: {gapsize}");
 
         }
         transform.position += Vector3.left * (moveSpeed  * Time.deltaTime);
